@@ -1,3 +1,3 @@
-README
+# Coolify empty remote commit E2E
 
-hello
+A short project overview.
